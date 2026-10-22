@@ -6,7 +6,7 @@ import zero.App;
 
 public class Main extends App {
     @Override public void setup() {
-        Label greeting = new Label("Hello, Java!");
+        Label greeting = new Label("Hello, Zero!");
         TextField name = new TextField();
         name.setPromptText("Your name");
         Button button = new Button("Say hello");
