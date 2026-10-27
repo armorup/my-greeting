@@ -8,7 +8,7 @@ public class Main extends App {
 
     @Override
     public void settings() {
-        padding(20);
+        padding(40);
     }
 
     @Override
