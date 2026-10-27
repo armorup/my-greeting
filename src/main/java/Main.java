@@ -6,7 +6,7 @@ public class Main extends App {
 
     @Override public void setup() {
         // Build your interface here.
-        Label greeting = new Label("Hello, Java!");
+        Label greeting = new Label("Hello, World!!!");
 show(greeting);
     }
 
